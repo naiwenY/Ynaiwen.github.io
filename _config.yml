@@ -22,7 +22,7 @@ repository               : "naiwenY/Ynaiwen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "naiwen.png"
+  avatar           : "profile.png"
   name             : "Yong Naiwen"
   pronouns         : # example: "she/her"  
   bio              : "Be an observer of the world"
